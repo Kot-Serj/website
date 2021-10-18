@@ -1,0 +1,19 @@
+h1 {
+    font-family:Andale Mono, monospace ;
+    font-size: 48pt;
+    margin-left: 250px;
+}
+
+p {
+    margin-left: 200px;
+    font-size: 30pt;
+}
+
+#header{
+    background-image:url('/image/head.jpeg');
+}
+a{
+    color:black;
+    padding: 2px;
+    text-decoration: none;
+}
