@@ -9,10 +9,6 @@ p {
     font-size: 30pt;
 }
 
-#header{
-    background-image:url('/image/head.jpeg');
-}
-
 a{
     color:black;
     padding: 2px;
@@ -31,3 +27,6 @@ a{
     float: right;
     margin: 15px;
   }
+#header{
+    background-image: url(/image/head.png);
+}
