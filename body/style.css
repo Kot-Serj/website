@@ -10,10 +10,24 @@ p {
 }
 
 #header{
-    background-image:url('');
+    background-image:url('/image/head.jpeg');
 }
+
 a{
     color:black;
     padding: 2px;
     text-decoration: none;
 }
+
+#menu {
+    
+    list-style-type: none;
+    text-align: right;
+    font-family:Andale Mono, monospace ;
+    font-size: 20pt;
+}
+#menu li {
+    display: inline; 
+    float: right;
+    margin: 15px;
+  }
