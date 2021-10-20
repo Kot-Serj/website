@@ -2,6 +2,7 @@ h1 {
     font-family:Andale Mono, monospace ;
     font-size: 48pt;
     text-align:center;
+    color: rgb(151, 133, 40);
 }
 
 p {
@@ -21,7 +22,7 @@ a{
     text-align: right;
     font-family:Andale Mono, monospace ;
     font-size: 20pt;
-    margin-bottom: 120px;
+    margin-bottom: -1cm;
     display: block;
 }
 
