@@ -28,5 +28,5 @@ a{
     margin: 15px;
   }
 #header{
-    background-image: url(/image/head.png);
+    background-image: url("../image/head.png");
 }
