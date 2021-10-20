@@ -1,10 +1,11 @@
 h1 {
     font-family:Andale Mono, monospace ;
     font-size: 48pt;
-    margin-left: 250px;
+    text-align:center;
 }
 
 p {
+    list-style-type: none;
     margin-left: 200px;
     font-size: 30pt;
 }
@@ -16,17 +17,24 @@ a{
 }
 
 #menu {
-    
     list-style-type: none;
     text-align: right;
     font-family:Andale Mono, monospace ;
     font-size: 20pt;
+    margin-bottom: 120px;
+    display: block;
 }
-#menu li {
+
+li {
     display: inline; 
     float: right;
     margin: 15px;
   }
 #header{
-    background-image: url("../image/head.png");
+    background:no-repeat center/100% url("../image/head.png");
+    text-align: justify;
+    display: block;
+    width: auto;
+    height: 200px;
+    
 }
